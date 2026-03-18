@@ -63,7 +63,6 @@ python main.py
 - If you encounter issues with Tkinter, ensure it is installed and available for your Python distribution.
 
 ## License
-This is your personal project; add a license file if you plan to share it.
 
 ---
-Generated/updated by developer assistant on March 18, 2026.
+Generated/Updated by developer assistant on March 18, 2026.
